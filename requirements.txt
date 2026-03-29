@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+pillow
+pandas
+streamlit-js-eval
+pydeck
+requests
